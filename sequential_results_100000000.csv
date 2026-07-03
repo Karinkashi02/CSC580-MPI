@@ -1,0 +1,9 @@
+Metric,Value
+Count,100000000
+Min,0.0001
+Max,9999.9999
+Mean,5000.3299
+Median,5000.2895
+Variance,8333145.7536
+StdDev,2886.7189
+TotalTime_ms,10801.2125

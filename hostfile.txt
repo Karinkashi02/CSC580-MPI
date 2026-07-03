@@ -1,0 +1,4 @@
+26.53.247.220   # Member 1 (Master)
+26.91.49.0   # Member 2 (Worker)
+26.71.36.91   # Member 3 (Worker)
+26.34.225.130   # Member 4 (Worker)
